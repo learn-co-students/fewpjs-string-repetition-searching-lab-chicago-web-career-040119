@@ -8,5 +8,3 @@ function heyJude() {
 function prohibitedLanguage(string) {
   return string.search(/candycorn|brusselssprouts/)
 }
-
-//
